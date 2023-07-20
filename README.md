@@ -1,5 +1,10 @@
 # BinDayBot
 A bot that sends you a DM on discord the day before your bin day.
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
+
+\s
 ---
 
 ## Setup
